@@ -1,4 +1,21 @@
 # camrules
 A GitHub repository for my website [camrules.com](https://www.camrules.com).
 
-The website is created with a NodeJS Backend, along with a NextJS/React frontend with TailwindCSS for styling.
+Front End Resources:
+    - React
+    - Vite
+    - TailwindCSS
+    - Framer Motion
+    - Lucide React
+    - Shadcn/UI
+
+Back End Resources:
+    - Express
+    - PostgreSQL
+    - Drizzle ORM
+    - Zod
+
+Other Utilities:
+    - TypeScript
+    - TanStack Query
+    - Wouter
