@@ -1,7 +1,7 @@
 # camrules
-A GitHub repository for my website [camrules.com](https://www.camrules.com).
+A repository for my website [camrules.com](https://www.camrules.com).
 
-Front End Resources:
+### Front End Resources:
 - React
 - Vite
 - TailwindCSS
@@ -9,13 +9,13 @@ Front End Resources:
 - Lucide React
 - Shadcn/UI
 
-Back End Resources:
+### Back End Resources:
 - Express
 - PostgreSQL
 - Drizzle ORM
 - Zod
 
-Other Utilities:
+### Other Utilities:
 - TypeScript
 - TanStack Query
 - Wouter
